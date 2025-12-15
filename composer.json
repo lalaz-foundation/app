@@ -18,7 +18,7 @@
   ],
   "require": {
     "php": "^8.3",
-    "lalaz/framework": "^1.0.0-rc.1"
+    "lalaz/framework": "^1.0.0-rc.2"
   },
   "minimum-stability": "stable",
   "prefer-stable": true,
